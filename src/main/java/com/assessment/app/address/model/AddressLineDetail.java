@@ -1,4 +1,3 @@
-
 package com.assessment.app.address.model;
 
 import com.google.gson.annotations.Expose;
